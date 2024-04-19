@@ -1,0 +1,50 @@
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-09 15:04:08
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-09 15:04:12
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-09 15:16:53
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-09 16:33:20
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+

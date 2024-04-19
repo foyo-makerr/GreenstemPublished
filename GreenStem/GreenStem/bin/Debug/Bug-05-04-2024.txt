@@ -1,0 +1,333 @@
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 09:51:38
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 10:01:50
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 11:39:20
+Bug Description:
+-------------------- || --------------------
+Invalid column name 'List P(New)'.
+Invalid column name 'Type'.
+Invalid column name 'List P(Old)'.
+Invalid column name 'L.Update'.
+Invalid column name 'Std Cost'.
+Invalid column name 'Min Price'.
+Invalid column name 'Con Price'.
+Invalid column name 'PO.Q'.
+Invalid column name 'LastS.Price'.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:23:35
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:23:41
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:28:26
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 601
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:41:25
+Bug Description:
+-------------------- || --------------------
+Operation was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:41:26
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 601
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:41:27
+Bug Description:
+-------------------- || --------------------
+Operation was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:43:25
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:53:32
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:54:45
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:55:59
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 15:58:38
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:00:38
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:14:57
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:17:14
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:18:16
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:18:33
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:18:58
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:19:03
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:19:22
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 16:19:32
+Bug Description:
+-------------------- || --------------------
+A task was canceled.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 17:46:43
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 17:54:52
+Bug Description:
+-------------------- || --------------------
+Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 17:54:54
+Bug Description:
+-------------------- || --------------------
+Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-05 17:54:54
+Bug Description:
+-------------------- || --------------------
+Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+-------------------- || --------------------
+
+

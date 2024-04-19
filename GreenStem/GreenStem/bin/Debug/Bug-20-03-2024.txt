@@ -1,0 +1,398 @@
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:24:31
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:24:31
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:24:58
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:24:58
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:25:21
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:25:21
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:30:26
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:30:26
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:33:27
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:33:32
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:34:15
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:34:20
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:35:06
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:35:10
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:35:47
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:35:51
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:37:09
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:37:13
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:38:19
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:38:19
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:39:09
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:39:09
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:53:19
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 09:54:39
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:09:13
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:11:14
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:13:12
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:13:28
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:16:34
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:16:59
+Bug Description:
+-------------------- || --------------------
+The parameterized query '(@TransactionType nvarchar(3),@FormName nvarchar(27),@DocumentNo' expects the parameter '@DocumentNo', which was not supplied.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteLogsForComputer
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 10:55:34
+Bug Description:
+-------------------- || --------------------
+The ConnectionString property has not been initialized.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 11:31:49
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (CS000002, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-20 11:32:34
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (CS000002, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+

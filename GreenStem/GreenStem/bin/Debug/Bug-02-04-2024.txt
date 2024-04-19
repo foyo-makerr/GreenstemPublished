@@ -1,0 +1,74 @@
+File Name: frmMultiCompanies
+Module Name: Std
+Method Name: QueryDatabaseForServerAndName
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-02 12:17:55
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmMultiCompanies
+Module Name: Std
+Method Name: QueryDatabaseForServerAndName
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-02 16:16:10
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-02 16:53:35
+Bug Description:
+-------------------- || --------------------
+Login failed for user 'green'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-02 16:53:52
+Bug Description:
+-------------------- || --------------------
+Login failed for user 'green'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-02 16:54:17
+Bug Description:
+-------------------- || --------------------
+Login failed for user 'green'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-02 16:54:31
+Bug Description:
+-------------------- || --------------------
+Login failed for user 'green'.
+-------------------- || --------------------
+
+

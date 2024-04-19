@@ -1,0 +1,36 @@
+File Name: frmLookUpSettings
+Module Name: LookUp
+Method Name: SaveChangesToDatabase
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-29 17:39:48
+Bug Description:
+-------------------- || --------------------
+Conversion failed when converting the nvarchar value '26.25' to data type int.
+-------------------- || --------------------
+
+
+File Name: frmLookUpSettings
+Module Name: LookUp
+Method Name: SaveChangesToDatabase
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-29 17:39:48
+Bug Description:
+-------------------- || --------------------
+Conversion failed when converting the nvarchar value '26.25' to data type int.
+-------------------- || --------------------
+
+
+File Name: frmLookUpSettings
+Module Name: LookUp
+Method Name: SaveChangesToDatabase
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-29 17:39:50
+Bug Description:
+-------------------- || --------------------
+Conversion failed when converting the nvarchar value '26.25' to data type int.
+-------------------- || --------------------
+
+

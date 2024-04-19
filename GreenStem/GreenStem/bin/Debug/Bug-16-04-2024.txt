@@ -1,0 +1,12 @@
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadOEMSDataIntoGrid
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-16 11:38:58
+Bug Description:
+-------------------- || --------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+-------------------- || --------------------
+
+

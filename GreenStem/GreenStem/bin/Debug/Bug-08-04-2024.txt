@@ -1,0 +1,261 @@
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 10:51:10
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 10:53:18
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 10:53:27
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 10:55:20
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:26:13
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:28:02
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:28:34
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:46:08
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:48:46
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:48:47
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:48:49
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:48:49
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:48:50
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:50:55
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 11:50:59
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 12:15:00
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 13:57:34
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 13:57:45
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 13:58:21
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 13:58:42
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-08 14:04:05
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+

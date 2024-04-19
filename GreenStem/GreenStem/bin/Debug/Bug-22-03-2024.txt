@@ -1,0 +1,12 @@
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteLogsForComputer
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-22 14:41:52
+Bug Description:
+-------------------- || --------------------
+The ConnectionString property has not been initialized.
+-------------------- || --------------------
+
+

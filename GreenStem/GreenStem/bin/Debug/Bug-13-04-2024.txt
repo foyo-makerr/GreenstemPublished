@@ -1,0 +1,350 @@
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 09:22:30
+Bug Description:
+-------------------- || --------------------
+The given key was not present in the dictionary.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:32:50
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:42:18
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:45:41
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC048458, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:53:20
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:53:55
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC048458, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:54:39
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC076665, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 11:59:50
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:01:09
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC048458, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:04:21
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:30:31
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:31:32
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:34:14
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC076665, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:46:09
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:50:18
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:53:17
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC076665, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 12:57:30
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:01:38
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:03:29
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:05:09
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:12:37
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:13:58
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:17:08
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:18:15
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:22:13
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:24:31
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC062364, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-13 13:27:14
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (NC066034, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+

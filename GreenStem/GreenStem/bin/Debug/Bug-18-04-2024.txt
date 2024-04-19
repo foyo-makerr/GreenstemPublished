@@ -1,0 +1,73 @@
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadOEMSDataIntoGrid
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-18 09:56:37
+Bug Description:
+-------------------- || --------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadOEMSDataIntoGrid
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-18 09:57:10
+Bug Description:
+-------------------- || --------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadOEMSDataIntoGrid
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-18 12:20:18
+Bug Description:
+-------------------- || --------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-18 15:31:02
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmLookUp'.
+-------------------- || --------------------
+
+
+File Name: frmLookUp
+Module Name: LookUp
+Method Name: ApplyFilters
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-18 15:36:46
+Bug Description:
+-------------------- || --------------------
+Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadOEMSDataIntoGrid
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-18 16:58:35
+Bug Description:
+-------------------- || --------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+-------------------- || --------------------
+
+

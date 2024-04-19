@@ -1,0 +1,124 @@
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: DeleteLogsForComputer
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 09:31:49
+Bug Description:
+-------------------- || --------------------
+The ConnectionString property has not been initialized.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 11:29:14
+Bug Description:
+-------------------- || --------------------
+Transporter Code
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 11:29:15
+Bug Description:
+-------------------- || --------------------
+Transporter Code
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 14:34:29
+Bug Description:
+-------------------- || --------------------
+Invalid object name 'Menu_UserMainScreen'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 14:34:30
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 15:46:13
+Bug Description:
+-------------------- || --------------------
+Transporter Code
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 15:46:14
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 15:46:14
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 15:46:16
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-28 15:47:51
+Bug Description:
+-------------------- || --------------------
+Transporter Code
+-------------------- || --------------------
+
+

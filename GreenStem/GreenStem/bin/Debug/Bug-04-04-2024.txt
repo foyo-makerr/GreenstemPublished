@@ -1,0 +1,25 @@
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-04 14:56:48
+Bug Description:
+-------------------- || --------------------
+Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-04-04 17:20:03
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (HCS0063849, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+

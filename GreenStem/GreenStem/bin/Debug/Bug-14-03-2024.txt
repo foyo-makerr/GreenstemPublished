@@ -1,0 +1,72 @@
+File Name: mdiMain
+Module Name: Std
+Method Name: OpenOrBringToFrontForm
+Line Number: 231
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-14 18:02:06
+Bug Description:
+-------------------- || --------------------
+This is a test exception for logging.
+-------------------- || --------------------
+
+
+File Name: mdiMain
+Module Name: Std
+Method Name: OpenOrBringToFrontForm
+Line Number: 231
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-14 18:03:18
+Bug Description:
+-------------------- || --------------------
+This is a test exception for logging.
+-------------------- || --------------------
+
+
+File Name: mdiMain
+Module Name: Std
+Method Name: OpenOrBringToFrontForm
+Line Number: 231
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-14 18:03:18
+Bug Description:
+-------------------- || --------------------
+This is a test exception for logging.
+-------------------- || --------------------
+
+
+File Name: mdiMain
+Module Name: Std
+Method Name: OpenOrBringToFrontForm
+Line Number: 231
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-14 18:03:33
+Bug Description:
+-------------------- || --------------------
+This is a test exception for logging.
+-------------------- || --------------------
+
+
+File Name: mdiMain
+Module Name: Std
+Method Name: OpenOrBringToFrontForm
+Line Number: 231
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-14 18:03:48
+Bug Description:
+-------------------- || --------------------
+This is a test exception for logging.
+-------------------- || --------------------
+
+
+File Name: mdiMain
+Module Name: Std
+Method Name: OpenOrBringToFrontForm
+Line Number: 231
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-14 18:04:06
+Bug Description:
+-------------------- || --------------------
+This is a test exception for logging.
+-------------------- || --------------------
+
+

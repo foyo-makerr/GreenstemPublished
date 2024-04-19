@@ -1,0 +1,77 @@
+File Name: frmMultiCompanies
+Module Name: Std
+Method Name: QueryDatabaseForServerAndName
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-27 15:33:56
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: frmLogin
+Module Name: Std
+Method Name: btnLogin_Click
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-27 15:57:46
+Bug Description:
+-------------------- || --------------------
+Cannot access a disposed object.
+Object name: 'frmMultiCompanies'.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-27 16:05:28
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (BB001819, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-27 16:07:27
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (BB001819, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: globalKeyHandler
+Module Name: ClassModules
+Method Name: InsertGUserLocked
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-27 16:09:18
+Bug Description:
+-------------------- || --------------------
+Violation of PRIMARY KEY constraint 'PK_GUser_Locked_tbl'. Cannot insert duplicate key in object 'dbo.GUser_Locked_tbl'. The duplicate key value is (BB001819, INV).
+The statement has been terminated.
+-------------------- || --------------------
+
+
+File Name: frmTransactionDetailAnalysis
+Module Name: Inventory
+Method Name: LoadDataForSelectedCode
+Line Number: 0
+Device Name: ONLINESTAR-7
+Timestamp: 2024-03-27 16:49:18
+Bug Description:
+-------------------- || --------------------
+Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+-------------------- || --------------------
+
+
