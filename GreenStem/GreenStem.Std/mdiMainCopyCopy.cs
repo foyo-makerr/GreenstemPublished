@@ -60,8 +60,9 @@ namespace GreenStem.Std
         public mdiMainCopyCopy(string userName)
         {
             InitializeComponent();
-            LoadMenuSettings();
+    
             InitializeTileGroup();
+            LoadMenuSettings();
             UserAccessControl(userName);
 
 
@@ -1061,16 +1062,30 @@ namespace GreenStem.Std
 
         private void navBtnMenu_ElementClick_1(object sender, NavElementEventArgs e)
         {
-            chartControl1.Visible = false;
-            tileControl1.Visible = true;
-            tableLayoutPanel2.Visible = false;
+            visibleMenu();
         }
 
         private void navBtnDashboard_ElementClick_1(object sender, NavElementEventArgs e)
         {
+            visibleDashboard();
+        }
+        
+        private void visibleMenu()
+        {
+            chartControl1.Visible = false;
+            tileControl1.Visible = true;
+            tableLayoutPanel2.Visible = false;
+            tableLayoutPanel3.Visible = false;
+            tileControlPanel.Visible = false;
+        }
+        private void visibleDashboard()
+        {
+
             tileControl1.Visible = false;
             chartControl1.Visible = true;
             tableLayoutPanel2.Visible = true;
+            tileControlPanel.Visible = true;
+            tableLayoutPanel3.Visible = true;
         }
 
         private void LoadMenuSettings()
@@ -1098,15 +1113,11 @@ namespace GreenStem.Std
                             // Check if DisplayMode is "Dashboard"
                             if (displayMode == "Dashboard")
                             {
-                                tileControl1.Visible = false;
-                                chartControl1.Visible = true;
-                                tableLayoutPanel2.Visible = true;
+                                visibleDashboard();
                             }
                             else
                             {
-                                chartControl1.Visible = false;
-                                tileControl1.Visible = true;
-                                tableLayoutPanel2.Visible = false;
+                                visibleMenu();
                             }
 
                             this.menuId = displayModule;

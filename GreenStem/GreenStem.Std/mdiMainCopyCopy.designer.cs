@@ -31,18 +31,38 @@ namespace GreenStem.Std
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            DevExpress.XtraEditors.TileItemElement tileItemElement11 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement10 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement12 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement13 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement14 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement15 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement17 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement16 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement18 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.DateTimeRangeClientRuler dateTimeRangeClientRuler2 = new DevExpress.XtraEditors.DateTimeRangeClientRuler();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mdiMainCopyCopy));
+            DevExpress.XtraEditors.TileItemElement tileItemElement2 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement1 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement3 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement4 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement5 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement6 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement8 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement7 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement9 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.DateTimeRangeClientRuler dateTimeRangeClientRuler1 = new DevExpress.XtraEditors.DateTimeRangeClientRuler();
             this.fluentDesignFormContainer1 = new DevExpress.XtraBars.FluentDesignSystem.FluentDesignFormContainer();
+            this.tileControlPanel = new System.Windows.Forms.Panel();
+            this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.chartControl4 = new DevExpress.XtraCharts.ChartControl();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.chartControl3 = new DevExpress.XtraCharts.ChartControl();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.chartControl2 = new DevExpress.XtraCharts.ChartControl();
+            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.chartControl1 = new DevExpress.XtraCharts.ChartControl();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.btnFilter = new DevExpress.XtraEditors.SimpleButton();
+            this.cbToYear = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.cbFromYear = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.rangeControl1 = new DevExpress.XtraEditors.RangeControl();
             this.tileControl1 = new DevExpress.XtraEditors.TileControl();
             this.tileGroup1 = new DevExpress.XtraEditors.TileGroup();
             this.tileGroup2 = new DevExpress.XtraEditors.TileGroup();
@@ -707,28 +727,21 @@ namespace GreenStem.Std
             this.filteringUIContext1 = new DevExpress.Utils.Filtering.FilteringUIContext(this.components);
             this.dateTimeRangeControlClient3 = new DevExpress.XtraEditors.DateTimeRangeControlClient();
             this.timeSpanChartRangeControlClient1 = new DevExpress.XtraEditors.TimeSpanChartRangeControlClient();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.chartControl1 = new DevExpress.XtraCharts.ChartControl();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.rangeControl1 = new DevExpress.XtraEditors.RangeControl();
-            this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.chartControl2 = new DevExpress.XtraCharts.ChartControl();
-            this.chartControl3 = new DevExpress.XtraCharts.ChartControl();
-            this.chartControl4 = new DevExpress.XtraCharts.ChartControl();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.cbFromYear = new System.Windows.Forms.ComboBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.cbToYear = new System.Windows.Forms.ComboBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.btnFilter = new DevExpress.XtraEditors.SimpleButton();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.fluentDesignFormContainer1.SuspendLayout();
+            this.tileControlPanel.SuspendLayout();
+            this.tableLayoutPanel3.SuspendLayout();
+            this.panel9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl4)).BeginInit();
+            this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl3)).BeginInit();
+            this.panel7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).BeginInit();
+            this.tableLayoutPanel2.SuspendLayout();
+            this.panel5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).BeginInit();
+            this.panel6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.rangeControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fluentDesignFormControl1)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
@@ -739,30 +752,235 @@ namespace GreenStem.Std
             this.MenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.filteringUIContext1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.timeSpanChartRangeControlClient1)).BeginInit();
-            this.panel4.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
-            this.panel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).BeginInit();
-            this.panel6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.rangeControl1)).BeginInit();
-            this.tableLayoutPanel3.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.panel8.SuspendLayout();
-            this.panel9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl4)).BeginInit();
             this.SuspendLayout();
             // 
             // fluentDesignFormContainer1
             // 
-            this.fluentDesignFormContainer1.Controls.Add(this.panel4);
+            this.fluentDesignFormContainer1.Controls.Add(this.tileControlPanel);
             this.fluentDesignFormContainer1.Controls.Add(this.tileControl1);
             this.fluentDesignFormContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.fluentDesignFormContainer1.Location = new System.Drawing.Point(0, 0);
             this.fluentDesignFormContainer1.Name = "fluentDesignFormContainer1";
             this.fluentDesignFormContainer1.Size = new System.Drawing.Size(1107, 722);
             this.fluentDesignFormContainer1.TabIndex = 9;
+            // 
+            // tileControlPanel
+            // 
+            this.tileControlPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tileControlPanel.BackColor = System.Drawing.Color.Transparent;
+            this.tileControlPanel.Controls.Add(this.tableLayoutPanel3);
+            this.tileControlPanel.Controls.Add(this.tableLayoutPanel2);
+            this.tileControlPanel.Location = new System.Drawing.Point(6, 0);
+            this.tileControlPanel.Name = "tileControlPanel";
+            this.tileControlPanel.Size = new System.Drawing.Size(1101, 722);
+            this.tileControlPanel.TabIndex = 3;
+            // 
+            // tableLayoutPanel3
+            // 
+            this.tableLayoutPanel3.ColumnCount = 3;
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel3.Controls.Add(this.panel9, 2, 0);
+            this.tableLayoutPanel3.Controls.Add(this.panel8, 1, 0);
+            this.tableLayoutPanel3.Controls.Add(this.panel7, 0, 0);
+            this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(0, 412);
+            this.tableLayoutPanel3.Name = "tableLayoutPanel3";
+            this.tableLayoutPanel3.RowCount = 1;
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(1101, 310);
+            this.tableLayoutPanel3.TabIndex = 4;
+            // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.chartControl4);
+            this.panel9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel9.Location = new System.Drawing.Point(734, 0);
+            this.panel9.Margin = new System.Windows.Forms.Padding(0);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(367, 310);
+            this.panel9.TabIndex = 2;
+            // 
+            // chartControl4
+            // 
+            this.chartControl4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.chartControl4.Legend.LegendID = -1;
+            this.chartControl4.Location = new System.Drawing.Point(0, 0);
+            this.chartControl4.Name = "chartControl4";
+            this.chartControl4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
+            this.chartControl4.Size = new System.Drawing.Size(367, 310);
+            this.chartControl4.TabIndex = 1;
+            // 
+            // panel8
+            // 
+            this.panel8.Controls.Add(this.chartControl3);
+            this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel8.Location = new System.Drawing.Point(367, 0);
+            this.panel8.Margin = new System.Windows.Forms.Padding(0);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(367, 310);
+            this.panel8.TabIndex = 1;
+            // 
+            // chartControl3
+            // 
+            this.chartControl3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.chartControl3.Legend.LegendID = -1;
+            this.chartControl3.Location = new System.Drawing.Point(0, 0);
+            this.chartControl3.Name = "chartControl3";
+            this.chartControl3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
+            this.chartControl3.Size = new System.Drawing.Size(367, 310);
+            this.chartControl3.TabIndex = 1;
+            // 
+            // panel7
+            // 
+            this.panel7.Controls.Add(this.chartControl2);
+            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel7.Location = new System.Drawing.Point(0, 0);
+            this.panel7.Margin = new System.Windows.Forms.Padding(0);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(367, 310);
+            this.panel7.TabIndex = 0;
+            // 
+            // chartControl2
+            // 
+            this.chartControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.chartControl2.Legend.LegendID = -1;
+            this.chartControl2.Location = new System.Drawing.Point(0, 0);
+            this.chartControl2.Name = "chartControl2";
+            this.chartControl2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
+            this.chartControl2.Size = new System.Drawing.Size(367, 310);
+            this.chartControl2.TabIndex = 0;
+            // 
+            // tableLayoutPanel2
+            // 
+            this.tableLayoutPanel2.ColumnCount = 2;
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80.29064F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 19.70935F));
+            this.tableLayoutPanel2.Controls.Add(this.panel5, 0, 0);
+            this.tableLayoutPanel2.Controls.Add(this.panel6, 1, 0);
+            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
+            this.tableLayoutPanel2.RowCount = 1;
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1101, 412);
+            this.tableLayoutPanel2.TabIndex = 3;
+            // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.chartControl1);
+            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel5.Location = new System.Drawing.Point(0, 0);
+            this.panel5.Margin = new System.Windows.Forms.Padding(0);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(884, 412);
+            this.panel5.TabIndex = 0;
+            // 
+            // chartControl1
+            // 
+            this.chartControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.chartControl1.Legend.LegendID = -1;
+            this.chartControl1.Location = new System.Drawing.Point(0, 0);
+            this.chartControl1.Name = "chartControl1";
+            this.chartControl1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
+            this.chartControl1.Size = new System.Drawing.Size(884, 412);
+            this.chartControl1.TabIndex = 0;
+            // 
+            // panel6
+            // 
+            this.panel6.Controls.Add(this.btnFilter);
+            this.panel6.Controls.Add(this.cbToYear);
+            this.panel6.Controls.Add(this.label4);
+            this.panel6.Controls.Add(this.label3);
+            this.panel6.Controls.Add(this.cbFromYear);
+            this.panel6.Controls.Add(this.label2);
+            this.panel6.Controls.Add(this.label1);
+            this.panel6.Controls.Add(this.rangeControl1);
+            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel6.Location = new System.Drawing.Point(884, 0);
+            this.panel6.Margin = new System.Windows.Forms.Padding(0);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(217, 412);
+            this.panel6.TabIndex = 1;
+            // 
+            // btnFilter
+            // 
+            this.btnFilter.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnFilter.ImageOptions.Image")));
+            this.btnFilter.Location = new System.Drawing.Point(10, 351);
+            this.btnFilter.Name = "btnFilter";
+            this.btnFilter.Size = new System.Drawing.Size(78, 32);
+            this.btnFilter.TabIndex = 8;
+            this.btnFilter.Text = "Filter";
+            this.btnFilter.Click += new System.EventHandler(this.btnFilter_Click);
+            // 
+            // cbToYear
+            // 
+            this.cbToYear.FormattingEnabled = true;
+            this.cbToYear.Location = new System.Drawing.Point(48, 309);
+            this.cbToYear.Name = "cbToYear";
+            this.cbToYear.Size = new System.Drawing.Size(111, 21);
+            this.cbToYear.TabIndex = 7;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(7, 312);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(23, 13);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "To:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(6, 239);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(43, 16);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Year:";
+            // 
+            // cbFromYear
+            // 
+            this.cbFromYear.FormattingEnabled = true;
+            this.cbFromYear.Location = new System.Drawing.Point(48, 270);
+            this.cbFromYear.Name = "cbFromYear";
+            this.cbFromYear.Size = new System.Drawing.Size(111, 21);
+            this.cbFromYear.TabIndex = 4;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(7, 273);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "From:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(3, 12);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(97, 16);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Filter Options:";
+            // 
+            // rangeControl1
+            // 
+            this.rangeControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.rangeControl1.Client = this.chartControl1;
+            this.rangeControl1.Location = new System.Drawing.Point(10, 57);
+            this.rangeControl1.Name = "rangeControl1";
+            this.rangeControl1.Size = new System.Drawing.Size(204, 167);
+            this.rangeControl1.TabIndex = 0;
+            this.rangeControl1.Text = "rangeControl1";
             // 
             // tileControl1
             // 
@@ -1201,8 +1419,8 @@ namespace GreenStem.Std
             // 
             // 
             this.tileNavItem3.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement11.Text = "tileNavItem1";
-            this.tileNavItem3.Tile.Elements.Add(tileItemElement11);
+            tileItemElement2.Text = "tileNavItem1";
+            this.tileNavItem3.Tile.Elements.Add(tileItemElement2);
             this.tileNavItem3.Tile.Name = "tileBarItem1";
             // 
             // tileNavSubItem2
@@ -1213,8 +1431,8 @@ namespace GreenStem.Std
             // 
             // 
             this.tileNavSubItem2.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement10.Text = "tileNavSubItem1";
-            this.tileNavSubItem2.Tile.Elements.Add(tileItemElement10);
+            tileItemElement1.Text = "tileNavSubItem1";
+            this.tileNavSubItem2.Tile.Elements.Add(tileItemElement1);
             this.tileNavSubItem2.Tile.Name = "tileBarItem9";
             // 
             // tileNavItem4
@@ -1225,8 +1443,8 @@ namespace GreenStem.Std
             // 
             // 
             this.tileNavItem4.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement12.Text = "tileNavItem2";
-            this.tileNavItem4.Tile.Elements.Add(tileItemElement12);
+            tileItemElement3.Text = "tileNavItem2";
+            this.tileNavItem4.Tile.Elements.Add(tileItemElement3);
             this.tileNavItem4.Tile.Name = "tileBarItem8";
             // 
             // panel3
@@ -5940,8 +6158,8 @@ namespace GreenStem.Std
             // tileBarItem6
             // 
             this.tileBarItem6.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement13.Text = "tileBarItem6";
-            this.tileBarItem6.Elements.Add(tileItemElement13);
+            tileItemElement4.Text = "tileBarItem6";
+            this.tileBarItem6.Elements.Add(tileItemElement4);
             this.tileBarItem6.Id = 7;
             this.tileBarItem6.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Wide;
             this.tileBarItem6.Name = "tileBarItem6";
@@ -5949,8 +6167,8 @@ namespace GreenStem.Std
             // tileBarItem5
             // 
             this.tileBarItem5.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement14.Text = "tileBarItem5";
-            this.tileBarItem5.Elements.Add(tileItemElement14);
+            tileItemElement5.Text = "tileBarItem5";
+            this.tileBarItem5.Elements.Add(tileItemElement5);
             this.tileBarItem5.Id = 6;
             this.tileBarItem5.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Wide;
             this.tileBarItem5.Name = "tileBarItem5";
@@ -5958,8 +6176,8 @@ namespace GreenStem.Std
             // tileBarItem4
             // 
             this.tileBarItem4.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement15.Text = "tileBarItem4";
-            this.tileBarItem4.Elements.Add(tileItemElement15);
+            tileItemElement6.Text = "tileBarItem4";
+            this.tileBarItem4.Elements.Add(tileItemElement6);
             this.tileBarItem4.Id = 5;
             this.tileBarItem4.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Wide;
             this.tileBarItem4.Name = "tileBarItem4";
@@ -6054,8 +6272,8 @@ namespace GreenStem.Std
             // 
             // 
             this.tileNavItem1.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement17.Text = "tileNavItem1";
-            this.tileNavItem1.Tile.Elements.Add(tileItemElement17);
+            tileItemElement8.Text = "tileNavItem1";
+            this.tileNavItem1.Tile.Elements.Add(tileItemElement8);
             this.tileNavItem1.Tile.Name = "tileBarItem1";
             // 
             // tileNavSubItem1
@@ -6066,8 +6284,8 @@ namespace GreenStem.Std
             // 
             // 
             this.tileNavSubItem1.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement16.Text = "tileNavSubItem1";
-            this.tileNavSubItem1.Tile.Elements.Add(tileItemElement16);
+            tileItemElement7.Text = "tileNavSubItem1";
+            this.tileNavSubItem1.Tile.Elements.Add(tileItemElement7);
             this.tileNavSubItem1.Tile.Name = "tileBarItem9";
             // 
             // tileNavItem2
@@ -6078,238 +6296,20 @@ namespace GreenStem.Std
             // 
             // 
             this.tileNavItem2.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement18.Text = "tileNavItem2";
-            this.tileNavItem2.Tile.Elements.Add(tileItemElement18);
+            tileItemElement9.Text = "tileNavItem2";
+            this.tileNavItem2.Tile.Elements.Add(tileItemElement9);
             this.tileNavItem2.Tile.Name = "tileBarItem8";
             // 
             // dateTimeRangeControlClient3
             // 
             this.dateTimeRangeControlClient3.LabelFormatString = "";
             this.dateTimeRangeControlClient3.Minimum = new System.DateTime(((long)(0)));
-            this.dateTimeRangeControlClient3.Rulers.Add(dateTimeRangeClientRuler2);
-            // 
-            // panel4
-            // 
-            this.panel4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel4.BackColor = System.Drawing.Color.Transparent;
-            this.panel4.Controls.Add(this.tableLayoutPanel3);
-            this.panel4.Controls.Add(this.tableLayoutPanel2);
-            this.panel4.Location = new System.Drawing.Point(6, 0);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(1101, 722);
-            this.panel4.TabIndex = 3;
-            // 
-            // tableLayoutPanel2
-            // 
-            this.tableLayoutPanel2.ColumnCount = 2;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80.29064F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 19.70935F));
-            this.tableLayoutPanel2.Controls.Add(this.panel5, 0, 0);
-            this.tableLayoutPanel2.Controls.Add(this.panel6, 1, 0);
-            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-            this.tableLayoutPanel2.RowCount = 1;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(1101, 412);
-            this.tableLayoutPanel2.TabIndex = 3;
-            // 
-            // panel5
-            // 
-            this.panel5.Controls.Add(this.chartControl1);
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel5.Location = new System.Drawing.Point(0, 0);
-            this.panel5.Margin = new System.Windows.Forms.Padding(0);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(884, 412);
-            this.panel5.TabIndex = 0;
-            // 
-            // chartControl1
-            // 
-            this.chartControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.chartControl1.Legend.LegendID = -1;
-            this.chartControl1.Location = new System.Drawing.Point(0, 0);
-            this.chartControl1.Name = "chartControl1";
-            this.chartControl1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.chartControl1.Size = new System.Drawing.Size(884, 412);
-            this.chartControl1.TabIndex = 0;
-            // 
-            // panel6
-            // 
-            this.panel6.Controls.Add(this.btnFilter);
-            this.panel6.Controls.Add(this.cbToYear);
-            this.panel6.Controls.Add(this.label4);
-            this.panel6.Controls.Add(this.label3);
-            this.panel6.Controls.Add(this.cbFromYear);
-            this.panel6.Controls.Add(this.label2);
-            this.panel6.Controls.Add(this.label1);
-            this.panel6.Controls.Add(this.rangeControl1);
-            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel6.Location = new System.Drawing.Point(884, 0);
-            this.panel6.Margin = new System.Windows.Forms.Padding(0);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(217, 412);
-            this.panel6.TabIndex = 1;
-            // 
-            // rangeControl1
-            // 
-            this.rangeControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.rangeControl1.Client = this.chartControl1;
-            this.rangeControl1.Location = new System.Drawing.Point(10, 57);
-            this.rangeControl1.Name = "rangeControl1";
-            this.rangeControl1.Size = new System.Drawing.Size(204, 167);
-            this.rangeControl1.TabIndex = 0;
-            this.rangeControl1.Text = "rangeControl1";
-            // 
-            // tableLayoutPanel3
-            // 
-            this.tableLayoutPanel3.ColumnCount = 3;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel3.Controls.Add(this.panel9, 2, 0);
-            this.tableLayoutPanel3.Controls.Add(this.panel8, 1, 0);
-            this.tableLayoutPanel3.Controls.Add(this.panel7, 0, 0);
-            this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(0, 412);
-            this.tableLayoutPanel3.Name = "tableLayoutPanel3";
-            this.tableLayoutPanel3.RowCount = 1;
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(1101, 310);
-            this.tableLayoutPanel3.TabIndex = 4;
-            // 
-            // panel7
-            // 
-            this.panel7.Controls.Add(this.chartControl2);
-            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel7.Location = new System.Drawing.Point(0, 0);
-            this.panel7.Margin = new System.Windows.Forms.Padding(0);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(367, 310);
-            this.panel7.TabIndex = 0;
-            // 
-            // panel8
-            // 
-            this.panel8.Controls.Add(this.chartControl3);
-            this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel8.Location = new System.Drawing.Point(367, 0);
-            this.panel8.Margin = new System.Windows.Forms.Padding(0);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(367, 310);
-            this.panel8.TabIndex = 1;
-            // 
-            // panel9
-            // 
-            this.panel9.Controls.Add(this.chartControl4);
-            this.panel9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel9.Location = new System.Drawing.Point(734, 0);
-            this.panel9.Margin = new System.Windows.Forms.Padding(0);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(367, 310);
-            this.panel9.TabIndex = 2;
-            // 
-            // chartControl2
-            // 
-            this.chartControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.chartControl2.Legend.LegendID = -1;
-            this.chartControl2.Location = new System.Drawing.Point(0, 0);
-            this.chartControl2.Name = "chartControl2";
-            this.chartControl2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.chartControl2.Size = new System.Drawing.Size(367, 310);
-            this.chartControl2.TabIndex = 0;
-            // 
-            // chartControl3
-            // 
-            this.chartControl3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.chartControl3.Legend.LegendID = -1;
-            this.chartControl3.Location = new System.Drawing.Point(0, 0);
-            this.chartControl3.Name = "chartControl3";
-            this.chartControl3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.chartControl3.Size = new System.Drawing.Size(367, 310);
-            this.chartControl3.TabIndex = 1;
-            // 
-            // chartControl4
-            // 
-            this.chartControl4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.chartControl4.Legend.LegendID = -1;
-            this.chartControl4.Location = new System.Drawing.Point(0, 0);
-            this.chartControl4.Name = "chartControl4";
-            this.chartControl4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.chartControl4.Size = new System.Drawing.Size(367, 310);
-            this.chartControl4.TabIndex = 1;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(3, 12);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(97, 16);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Filter Options:";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(7, 273);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "From:";
-            // 
-            // cbFromYear
-            // 
-            this.cbFromYear.FormattingEnabled = true;
-            this.cbFromYear.Location = new System.Drawing.Point(48, 270);
-            this.cbFromYear.Name = "cbFromYear";
-            this.cbFromYear.Size = new System.Drawing.Size(111, 21);
-            this.cbFromYear.TabIndex = 4;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(6, 239);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(43, 16);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "Year:";
-            // 
-            // cbToYear
-            // 
-            this.cbToYear.FormattingEnabled = true;
-            this.cbToYear.Location = new System.Drawing.Point(48, 309);
-            this.cbToYear.Name = "cbToYear";
-            this.cbToYear.Size = new System.Drawing.Size(111, 21);
-            this.cbToYear.TabIndex = 7;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(7, 312);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(23, 13);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "To:";
-            // 
-            // btnFilter
-            // 
-            this.btnFilter.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
-            this.btnFilter.Location = new System.Drawing.Point(10, 351);
-            this.btnFilter.Name = "btnFilter";
-            this.btnFilter.Size = new System.Drawing.Size(78, 32);
-            this.btnFilter.TabIndex = 8;
-            this.btnFilter.Text = "Filter";
-            this.btnFilter.Click += new System.EventHandler(this.btnFilter_Click);
+            this.dateTimeRangeControlClient3.Rulers.Add(dateTimeRangeClientRuler1);
             // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(181, 26);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // mdiMainCopyCopy
             // 
@@ -6326,6 +6326,20 @@ namespace GreenStem.Std
             this.Text = "Green Plus Accounting";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.fluentDesignFormContainer1.ResumeLayout(false);
+            this.tileControlPanel.ResumeLayout(false);
+            this.tableLayoutPanel3.ResumeLayout(false);
+            this.panel9.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl4)).EndInit();
+            this.panel8.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl3)).EndInit();
+            this.panel7.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).EndInit();
+            this.tableLayoutPanel2.ResumeLayout(false);
+            this.panel5.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.rangeControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fluentDesignFormControl1)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
@@ -6338,20 +6352,6 @@ namespace GreenStem.Std
             this.MenuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.filteringUIContext1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.timeSpanChartRangeControlClient1)).EndInit();
-            this.panel4.ResumeLayout(false);
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.panel5.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.rangeControl1)).EndInit();
-            this.tableLayoutPanel3.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel8.ResumeLayout(false);
-            this.panel9.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl4)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -7031,7 +7031,7 @@ namespace GreenStem.Std
         private DevExpress.Utils.Filtering.FilteringUIContext filteringUIContext1;
         private DevExpress.XtraEditors.DateTimeRangeControlClient dateTimeRangeControlClient3;
         private DevExpress.XtraEditors.TimeSpanChartRangeControlClient timeSpanChartRangeControlClient1;
-        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Panel tileControlPanel;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.Panel panel5;
         private DevExpress.XtraCharts.ChartControl chartControl1;

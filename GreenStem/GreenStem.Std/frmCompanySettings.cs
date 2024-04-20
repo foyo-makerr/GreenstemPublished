@@ -40,7 +40,7 @@ namespace GreenStem.Std
                 txtServerName.Text = clsConnection.TempSQLServerName;
 
             }
-
+            
         }
         private async void InitializeAsync()
         {
@@ -48,7 +48,7 @@ namespace GreenStem.Std
             {
                 connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["connection_string"].ConnectionString;
                 await LoadDataIntoGridAsync(); // Await the asynchronous method
-
+               
             }
         }
         private async Task LoadDataIntoGridAsync()
@@ -130,7 +130,7 @@ namespace GreenStem.Std
                 }
             }
             repositoryItemGridLookupDatabaseServer.DataSource = serverInstanceDt;
-
+    
             repositoryItemGridLookupDatabaseServer.DisplayMember = "ServerName"; // Adjust column name
             repositoryItemGridLookupDatabaseServer.ValueMember = "ServerName"; // Adjust column name
             repositoryItemGridLookupDatabaseServer.PopupFormSize = new Size(600, 900);
@@ -140,7 +140,7 @@ namespace GreenStem.Std
                                                                                                                             // Set the repository item for the "Database Server" column
             gridView1.Columns["Database Server"].ColumnEdit = repositoryItemGridLookupDatabaseServer;
 
-
+          
 
 
 
@@ -161,7 +161,7 @@ namespace GreenStem.Std
                     }
                 }
             };
-
+           
         }
         private DataTable GetDataFromDatabase(string query)
         {
@@ -301,7 +301,7 @@ namespace GreenStem.Std
                             updateCommand.Parameters.AddWithValue("@DbServer", dbServer);
                             updateCommand.Parameters.AddWithValue("@DbName", dbName);
                             updateCommand.Parameters.AddWithValue("@LicenseControl", licenseControl); // Add License Control parameter
-
+                         
                             updateCommand.ExecuteNonQuery();
                         }
                         else
@@ -338,7 +338,7 @@ namespace GreenStem.Std
                     // Invoke the DataSelected event with the selected data
                     DataSaved?.Invoke(); // Invoke the event if there are subscribers
                 }
-
+               
             }
 
             catch (Exception ex)
@@ -355,7 +355,7 @@ namespace GreenStem.Std
 
             // Create a new DataRow and add it to the DataTable
             DataRow newRow = dataTable.NewRow();
-
+      
             dataTable.Rows.Add(newRow);
 
             // Move the focus to the new row
@@ -415,7 +415,7 @@ namespace GreenStem.Std
 
         private void btnGetAvailableServer_Click(object sender, EventArgs e)
         {
-
+          
 
             try
             {
@@ -423,7 +423,7 @@ namespace GreenStem.Std
                 // Retrieve the enumerator instance and get the available SQL Server instances
                 SqlDataSourceEnumerator instance = SqlDataSourceEnumerator.Instance;
                 DataTable dataTable = instance.GetDataSources();
-
+              
                 // Create and show the form for listing servers
                 listOfServerForm = new frmListOfServers(dataTable);
                 listOfServerForm.StartPosition = FormStartPosition.CenterScreen;
@@ -432,11 +432,11 @@ namespace GreenStem.Std
                 listOfServerForm.StartPosition = FormStartPosition.CenterScreen;
                 SplashScreenManager.CloseForm(false);
                 listOfServerForm.Show();
-
+             
             }
             catch (Exception ex)
             {
-
+            
                 MessageBox.Show("Please Try Other Server Instances " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
@@ -445,10 +445,10 @@ namespace GreenStem.Std
         {
             try
             {
-
+            
                 // Update the text box with the selected server name
                 txtServerName.Text = onSelectServerName;
-
+              
                 connectionString = $"Data Source={onSelectServerName};Initial Catalog=GreenPlus;Integrated Security=false;User ID=green;Password=Gb$$b62633933@#";
 
 
@@ -456,7 +456,7 @@ namespace GreenStem.Std
             }
             catch (Exception ex)
             {
-
+            
                 MessageBox.Show("Please Try Other Server Instances " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
