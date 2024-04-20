@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMultiCompanies));
             this.cmdCancel = new System.Windows.Forms.Button();
             this.cmdOK = new System.Windows.Forms.Button();
@@ -42,8 +43,8 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.gridControl1 = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.ToolTip = new System.Windows.Forms.ToolTip();
-            this.Timer1 = new System.Windows.Forms.Timer();
+            this.ToolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.Timer1 = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -101,9 +102,9 @@
             this.label5.Location = new System.Drawing.Point(32, 98);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(279, 36);
+            this.label5.Size = new System.Drawing.Size(177, 36);
             this.label5.TabIndex = 9;
-            this.label5.Text = "Company Selection";
+            this.label5.Text = "new version";
             // 
             // tableLayoutPanel1
             // 
