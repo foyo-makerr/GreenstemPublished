@@ -140,6 +140,7 @@
             this.txtServerName.Name = "txtServerName";
             this.txtServerName.Size = new System.Drawing.Size(310, 22);
             this.txtServerName.TabIndex = 536;
+            this.txtServerName.TextChanged += new System.EventHandler(this.txtServerName_TextChanged);
             this.txtServerName.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtServerName_KeyDown);
             // 
             // label2
@@ -191,6 +192,7 @@
             this.Controls.Add(this.ribbonStatusBar);
             this.Controls.Add(this.ribbon);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.IconOptions.Image = ((System.Drawing.Image)(resources.GetObject("frmCompanySettings.IconOptions.Image")));
             this.Name = "frmCompanySettings";
             this.Ribbon = this.ribbon;
             this.StatusBar = this.ribbonStatusBar;

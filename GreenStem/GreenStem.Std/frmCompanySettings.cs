@@ -480,7 +480,14 @@ namespace GreenStem.Std
 
                 // Load data into the grid asynchronously
                 await LoadDataIntoGridAsync();
+
+                DataSaved?.Invoke(); // Invoke the event if there are subscribers
             }
+        }
+
+        private void txtServerName_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 

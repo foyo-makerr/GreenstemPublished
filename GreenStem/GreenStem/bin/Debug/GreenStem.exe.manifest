@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
   <asmv1:assemblyIdentity name="GreenStem.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
     <assemblyIdentity name="GreenStem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -390,14 +391,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GreenStem.exe" size="7624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GreenStem.exe" size="173512">
       <assemblyIdentity name="GreenStem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5MZ6PNVb5w4hF8+lTZA2cIdkfFh8JzTiHqtue8OJlrQ=</dsig:DigestValue>
+        <dsig:DigestValue>PT53SCyrj/KOWVwt/emUFed4gETvjseOwYupFFZgf4g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -474,14 +475,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GreenStem.Std.dll" size="1084416">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GreenStem.Std.dll" size="1099264">
       <assemblyIdentity name="GreenStem.Std" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ESz6Zdb/kd9nOcPgJ4kGR0krM+l/9GUFOY2W3C09EXw=</dsig:DigestValue>
+        <dsig:DigestValue>qtf7gwH2QJDWpbnQJAojRdtMA2kVm9FRy+6hgFzNQC4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -492,6 +493,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>XBcdllqbBbbJ9MBiY5F/nemZLWswEyJ0BzNH07EdhA0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="logo.ico" size="165662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+OkYQ1GggSVymFniRf427+H8NseKlj3AE+LiF/S1FPY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
